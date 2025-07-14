@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Define moment of a couple.",
+    "answer": "The rotating effect of two equal and opposite forces whose lines of action do not coincide is called moment of a couple."
+  },
+  {
+    "question": "State the principle of moments.",
+    "answer": "When a body is in equilibrium, the sum of clockwise moments equals the sum of anticlockwise moments."
+  },
+  {
+    "question": "State Newton’s second law.",
+    "answer": "The force acting on a body is directly proportional to the rate of change of linear momentum and acts in the direction of the force."
+  },
+  {
+    "question": "Tell me about Newton’s second law.",
+    "answer": "The force acting on a body is directly proportional to the rate of change of linear momentum and acts in the direction of the force."
+  },
+  {
+    "question": "Explain Newton’s second law.",
+    "answer": "The force acting on a body is directly proportional to the rate of change of linear momentum and acts in the direction of the force."
+  },
+  {
+    "question": "How does an astronaut float in a space shuttle?",
+    "answer": "The astronaut floats because there is no external force acting on him, so he experiences zero acceleration, appearing weightless."
+  },
+  {
+    "question": "What is vibration?",
+    "answer": "A body is said to be vibrating if it moves back and forth or to and fro about a point."
+  },
+  {
+    "question": "What is Simple Harmonic Motion (SHM)?",
+    "answer": "Simple harmonic motion occurs when the net force is directly proportional to the displacement from the mean position and is always directed towards the mean position."
+  },
+  {
+    "question": "Give examples of SHM.",
+    "answer": "Examples of SHM include the motion of a mass attached to a spring, a ball in a bowl, and a simple pendulum."
+  },
+  {
+    "question": "What is the formula for the time period of a mass-spring system?",
+    "answer": "The time period T is given by T = 2π √(m/k), where m is the mass and k is the spring constant."
+  },
+  {
+    "question": "What is the restoring force in a spring system?",
+    "answer": "The restoring force F is given by Hooke’s law as F = -kx, where k is the spring constant and x is the displacement."
+  },
+  {
+    "question": "What is the time period of a simple pendulum?",
+    "answer": "T = 2π √(l/g), where l is the length of the string and g is the acceleration due to gravity."
+  },
+  {
+    "question": "What is amplitude?",
+    "answer": "Amplitude is the maximum displacement of a vibrating body on either side from its mean position."
+  },
+  {
+    "question": "Define frequency.",
+    "answer": "Frequency is the number of vibrations in one second. It is the reciprocal of the time period: f = 1/T."
+  },
+  {
+    "question": "What happens to the speed of a bob in SHM at the mean position?",
+    "answer": "At the mean position, the speed of the bob is maximum and acceleration is zero."
+  },
+  {
+    "question": "What is Simple Harmonic Motion (SHM)?",
+    "answer": "Simple harmonic motion occurs when the net force is directly proportional to the displacement from the mean position and is always directed towards the mean position."
+  },
+  {
+    "question": "What is the restoring force in a spring system?",
+    "answer": "The restoring force is the force exerted by the spring that always acts towards the mean position. It follows Hooke's law: F = -kx."
+  },
+  {
+    "question": "What is the time period of a mass-spring system in SHM?",
+    "answer": "The time period T of a mass m attached to a spring is given by T = 2π√(m/k)."
+  },
+  {
+    "question": "What is damping in oscillatory motion?",
+    "answer": "Damping is the effect of friction or resistance that reduces the amplitude of vibration over time, leading to a gradual stop."
+  },
+  {
+    "question": "What are mechanical waves?",
+    "answer": "Mechanical waves are waves that require a medium to propagate. Examples include water waves and sound waves."
+  },
+  {
+    "question": "What is the formula for wave speed?",
+    "answer": "Wave speed v is given by the product of frequency and wavelength: v = f × λ."
+  }
+]
+
+
+
+
